@@ -62,4 +62,4 @@
     <XUnitArguments></XUnitArguments>
     <XUnitWorkItemTimeout Condition = "'$(XUnitWorkItemTimeout)' == ''">01:00:00</XUnitWorkItemTimeout>
   </PropertyGroup>
-</Project>
+</Project> 
